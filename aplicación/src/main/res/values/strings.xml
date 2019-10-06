@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GoU</string>
+    <string name="BotonInicio">Inicio Sesion</string>
+    <string name="BotonRegistro">Registrarse</string>
+    <string name="BotonRecuperacion">Olvido usuario o contraseña</string>
+    <string name="TextUsuario">Usuario</string>
+    <string name="TextContraseña">Contraseña</string>
+    <string name="BotonIngresar">Iniciar sesion</string>
+    <string name="TextNombres">Nombres</string>
+    <string name="TextApellidos">Apellidos</string>
+    <string name="TextCedula">Documento</string>
+    <string name="TextTelefono">Celular</string>
+    <string name="TextCorreo">Correo institucional</string>
+    <string name="TextFechaNac">Fecha de nacimiento</string>
+    <string name="TextContraseñaRegi">Contraseña</string>
+    <string name="BotonContraseña">Contraseña</string>
+    <string name="BotonGuardarRegistro">Guardar Registro</string>
+
+
+</resources>
